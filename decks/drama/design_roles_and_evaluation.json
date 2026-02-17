@@ -1,0 +1,298 @@
+{
+  "meta": {
+    "subject": "Drama",
+    "topic": "Production",
+    "deck": "Design, roles and evaluation",
+    "version": "1.0",
+    "created": "2026-02-17",
+    "source": "SQA Higher Drama course specification"
+  },
+  "cards": [
+    {
+      "id": "dra_prod_costume",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Costume",
+      "back": "Clothing and accessories used to show character, status, time period and mood.",
+      "use": "In a production answer, explain how costume supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_make_up",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Make-up",
+      "back": "Cosmetics or effects used to alter appearance, age, injury, or character detail.",
+      "use": "In a production answer, explain how make-up supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_props",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Props",
+      "back": "Objects used by performers on stage to support action and meaning.",
+      "use": "In a production answer, explain how props supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_set",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Set",
+      "back": "The stage environment, including scenery and staging, that establishes place and mood.",
+      "use": "In a production answer, explain how set supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_lighting",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Lighting",
+      "back": "Use of light to shape focus, mood, time of day and atmosphere.",
+      "use": "In a production answer, explain how lighting supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_sound",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Sound",
+      "back": "Use of music, effects or silence to build mood, meaning and transitions.",
+      "use": "In a production answer, explain how sound supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_special_effects",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Special effects",
+      "back": "Non standard technical effects used to create impact, such as smoke, projections or stage effects.",
+      "use": "In a production answer, explain how special effects supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_director",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Director",
+      "back": "The person who shapes the overall interpretation and coordinates performance and production choices.",
+      "use": "In a production answer, explain how director supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_actor",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Actor",
+      "back": "A performer who uses acting skills to present character and meaning to an audience.",
+      "use": "In a production answer, explain how actor supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_designer",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Designer",
+      "back": "A person responsible for visual or technical elements such as set, lighting, costume or sound design.",
+      "use": "In a production answer, explain how designer supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_rehearsal",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Rehearsal",
+      "back": "A practice session where performance and production choices are developed and refined.",
+      "use": "In a production answer, explain how rehearsal supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_scene",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Scene",
+      "back": "A section of a drama where action takes place in a particular setting or time.",
+      "use": "In a production answer, explain how scene supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_production",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Production",
+      "back": "The overall staging of a drama, combining acting, design and technical elements.",
+      "use": "In a production answer, explain how production supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_analysis",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Analysis",
+      "back": "Breaking down performance or design choices to explain how they create meaning and effect.",
+      "use": "In a production answer, explain how analysis supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_evaluate",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Evaluate",
+      "back": "Make a judgement about how successful a choice is, supported by reasons or evidence.",
+      "use": "In a production answer, explain how evaluate supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_justify",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Justify",
+      "back": "Give clear reasons for a choice, linking it to intention and effect.",
+      "use": "In a production answer, explain how justify supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_production_concept",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Production concept",
+      "back": "The central interpretive idea for a production that guides acting and design decisions.",
+      "use": "In a production answer, explain how production concept supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_design_concept",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Design concept",
+      "back": "A unifying plan for design elements (set, lighting, costume, sound) that supports the production concept.",
+      "use": "In a production answer, explain how design concept supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_set_design",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Set design",
+      "back": "The planned scenic environment for a production, including layout and materials.",
+      "use": "In a production answer, explain how set design supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_sound_design",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Sound design",
+      "back": "Planned use of sound and music, including cues, volume and texture.",
+      "use": "In a production answer, explain how sound design supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_role",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Role",
+      "back": "A specific job or responsibility within a production team.",
+      "use": "In a production answer, explain how role supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    },
+    {
+      "id": "dra_prod_script",
+      "subject": "Drama",
+      "topic": "Production",
+      "deck": "Design, roles and evaluation",
+      "front": "Script",
+      "back": "The written text of the drama, including dialogue and stage directions.",
+      "use": "In a production answer, explain how script supports mood, theme or character.",
+      "related": [
+        "drama",
+        "production"
+      ]
+    }
+  ]
+}

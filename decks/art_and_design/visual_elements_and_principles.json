@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "subject": "Art and Design",
+    "topic": "Elements",
+    "deck": "Visual elements and principles",
+    "version": "1.0",
+    "created": "2026-02-17",
+    "source": "SQA Higher Art and Design course specification"
+  },
+  "cards": [
+    {
+      "id": "art_elements_line",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Line",
+      "back": "A mark that can outline shapes, show direction, or create texture and movement.",
+      "use": "When analysing your own work, you can point to line to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    },
+    {
+      "id": "art_elements_shape",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Shape",
+      "back": "A flat area enclosed by lines or edges, such as geometric or organic shapes.",
+      "use": "When analysing your own work, you can point to shape to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    },
+    {
+      "id": "art_elements_form",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Form",
+      "back": "A three dimensional quality, showing volume and depth.",
+      "use": "When analysing your own work, you can point to form to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    },
+    {
+      "id": "art_elements_tone",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Tone",
+      "back": "How light or dark something is, used to create depth and contrast.",
+      "use": "When analysing your own work, you can point to tone to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    },
+    {
+      "id": "art_elements_texture",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Texture",
+      "back": "The surface quality of something, real or suggested through marks and pattern.",
+      "use": "When analysing your own work, you can point to texture to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    },
+    {
+      "id": "art_elements_colour",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Colour",
+      "back": "The use of hue, saturation and brightness to create mood, contrast or harmony.",
+      "use": "When analysing your own work, you can point to colour to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    },
+    {
+      "id": "art_elements_pattern",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Pattern",
+      "back": "A repeated arrangement of shapes, lines or colours.",
+      "use": "When analysing your own work, you can point to pattern to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    },
+    {
+      "id": "art_elements_space",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Space",
+      "back": "The area around, within and between forms and shapes, including positive and negative space.",
+      "use": "When analysing your own work, you can point to space to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    },
+    {
+      "id": "art_elements_composition",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Composition",
+      "back": "How visual elements are arranged to create balance and focus.",
+      "use": "When analysing your own work, you can point to composition to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    },
+    {
+      "id": "art_elements_balance",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Balance",
+      "back": "A sense of visual stability created by distributing elements across the work.",
+      "use": "When analysing your own work, you can point to balance to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    },
+    {
+      "id": "art_elements_contrast",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Contrast",
+      "back": "A strong difference between elements (such as light and dark or rough and smooth) used to add impact.",
+      "use": "When analysing your own work, you can point to contrast to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    },
+    {
+      "id": "art_elements_proportion",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Proportion",
+      "back": "The relative size and scale of parts within an image or design.",
+      "use": "When analysing your own work, you can point to proportion to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    },
+    {
+      "id": "art_elements_scale",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Scale",
+      "back": "How big or small something appears, often in relation to the viewer or other elements.",
+      "use": "When analysing your own work, you can point to scale to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    },
+    {
+      "id": "art_elements_emphasis",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Emphasis",
+      "back": "Making an element stand out as a focal point through contrast, placement or scale.",
+      "use": "When analysing your own work, you can point to emphasis to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    },
+    {
+      "id": "art_elements_unity",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Unity",
+      "back": "A sense that the parts of a work belong together and create a coherent whole.",
+      "use": "When analysing your own work, you can point to unity to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    },
+    {
+      "id": "art_elements_perspective",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Perspective",
+      "back": "Techniques for showing depth and distance on a flat surface.",
+      "use": "When analysing your own work, you can point to perspective to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    },
+    {
+      "id": "art_elements_layout",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Layout",
+      "back": "How text and images are arranged on a page or screen to communicate clearly.",
+      "use": "When analysing your own work, you can point to layout to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    },
+    {
+      "id": "art_elements_typography",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Typography",
+      "back": "The style and arrangement of text, including font choice, size and spacing.",
+      "use": "When analysing your own work, you can point to typography to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    },
+    {
+      "id": "art_elements_aesthetics",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Aesthetics",
+      "back": "How something looks and feels visually, including style and appeal.",
+      "use": "When analysing your own work, you can point to aesthetics to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    },
+    {
+      "id": "art_elements_media",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Media",
+      "back": "The materials used to make work (for example, pencil, paint, ink, digital tools).",
+      "use": "When analysing your own work, you can point to media to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    },
+    {
+      "id": "art_elements_technique",
+      "subject": "Art and Design",
+      "topic": "Elements",
+      "deck": "Visual elements and principles",
+      "front": "Technique",
+      "back": "A practical method used to handle media and create effects.",
+      "use": "When analysing your own work, you can point to technique to explain what it does.",
+      "related": [
+        "art and design",
+        "visual elements"
+      ]
+    }
+  ]
+}
