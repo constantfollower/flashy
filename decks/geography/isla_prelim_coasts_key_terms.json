@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "subject": "Geography",
+    "topic": "Lithosphere (coasts)",
+    "deck": "Islay prelim — Coasts key terms",
+    "version": "2.0",
+    "created": "2026-02-20",
+    "source": "10_TeacherPack_Stage2A.txt + 04_Glossary_and_Aliases.txt"
+  },
+  "cards": [
+    {
+      "id": "isla_coasts_headland",
+      "subject": "Geography",
+      "topic": "Lithosphere (coasts)",
+      "deck": "Islay prelim — Coasts key terms",
+      "front": "Headland",
+      "back": "A resistant (hard rock) section of coast that sticks out into the sea."
+    },
+    {
+      "id": "isla_coasts_bay",
+      "subject": "Geography",
+      "topic": "Lithosphere (coasts)",
+      "deck": "Islay prelim — Coasts key terms",
+      "front": "Bay",
+      "back": "A curved inlet where softer rock has been eroded away more quickly."
+    },
+    {
+      "id": "isla_coasts_hydraulic_action",
+      "subject": "Geography",
+      "topic": "Lithosphere (coasts)",
+      "deck": "Islay prelim — Coasts key terms",
+      "front": "Hydraulic action",
+      "back": "Wave force that compresses air in cracks, widening them."
+    },
+    {
+      "id": "isla_coasts_abrasion",
+      "subject": "Geography",
+      "topic": "Lithosphere (coasts)",
+      "deck": "Islay prelim — Coasts key terms",
+      "front": "Abrasion",
+      "back": "scraping by debris"
+    },
+    {
+      "id": "isla_coasts_cave",
+      "subject": "Geography",
+      "topic": "Lithosphere (coasts)",
+      "deck": "Islay prelim — Coasts key terms",
+      "front": "Cave",
+      "back": "A hollow formed when waves widen cracks in a headland."
+    },
+    {
+      "id": "isla_coasts_arch",
+      "subject": "Geography",
+      "topic": "Lithosphere (coasts)",
+      "deck": "Islay prelim — Coasts key terms",
+      "front": "Arch",
+      "back": "A hole through a headland formed when a cave is eroded right through."
+    },
+    {
+      "id": "isla_coasts_stack",
+      "subject": "Geography",
+      "topic": "Lithosphere (coasts)",
+      "deck": "Islay prelim — Coasts key terms",
+      "front": "Stack",
+      "back": "An isolated pillar of rock left when an arch collapses."
+    },
+    {
+      "id": "isla_coasts_stump",
+      "subject": "Geography",
+      "topic": "Lithosphere (coasts)",
+      "deck": "Islay prelim — Coasts key terms",
+      "front": "Stump",
+      "back": "A smaller remnant left when a stack is eroded and collapses."
+    },
+    {
+      "id": "isla_coasts_wave_cut_notch",
+      "subject": "Geography",
+      "topic": "Lithosphere (coasts)",
+      "deck": "Islay prelim — Coasts key terms",
+      "front": "Wave-cut notch",
+      "back": "An undercut at the base of a cliff made by wave erosion."
+    },
+    {
+      "id": "isla_coasts_wave_cut_platform",
+      "subject": "Geography",
+      "topic": "Lithosphere (coasts)",
+      "deck": "Islay prelim — Coasts key terms",
+      "front": "Wave-cut platform",
+      "back": "A gently sloping rock surface left as the cliff retreats after undercutting and collapse."
+    },
+    {
+      "id": "isla_coasts_swash",
+      "subject": "Geography",
+      "topic": "Lithosphere (coasts)",
+      "deck": "Islay prelim — Coasts key terms",
+      "front": "Swash",
+      "back": "Water moving up the beach after a wave breaks."
+    },
+    {
+      "id": "isla_coasts_backwash",
+      "subject": "Geography",
+      "topic": "Lithosphere (coasts)",
+      "deck": "Islay prelim — Coasts key terms",
+      "front": "Backwash",
+      "back": "Water flowing back down the beach due to gravity."
+    },
+    {
+      "id": "isla_coasts_longshore_drift",
+      "subject": "Geography",
+      "topic": "Lithosphere (coasts)",
+      "deck": "Islay prelim — Coasts key terms",
+      "front": "Longshore drift",
+      "back": "sediment transport along coast"
+    },
+    {
+      "id": "isla_coasts_spit",
+      "subject": "Geography",
+      "topic": "Lithosphere (coasts)",
+      "deck": "Islay prelim — Coasts key terms",
+      "front": "Spit",
+      "back": "A long ridge of sand/shingle extending out from the coast where longshore drift deposits material."
+    },
+    {
+      "id": "isla_coasts_bar",
+      "subject": "Geography",
+      "topic": "Lithosphere (coasts)",
+      "deck": "Islay prelim — Coasts key terms",
+      "front": "Bar",
+      "back": "A ridge of sand/shingle that grows right across a bay, often forming a lagoon behind."
+    },
+    {
+      "id": "isla_coasts_tombolo",
+      "subject": "Geography",
+      "topic": "Lithosphere (coasts)",
+      "deck": "Islay prelim — Coasts key terms",
+      "front": "Tombolo",
+      "back": "A ridge of sand/shingle that links an island to the mainland."
+    },
+    {
+      "id": "isla_coasts_deposition",
+      "subject": "Geography",
+      "topic": "Lithosphere (coasts)",
+      "deck": "Islay prelim — Coasts key terms",
+      "front": "Deposition",
+      "back": "The laying down of material carried by waves."
+    },
+    {
+      "id": "isla_coasts_erosion",
+      "subject": "Geography",
+      "topic": "Lithosphere (coasts)",
+      "deck": "Islay prelim — Coasts key terms",
+      "front": "Erosion",
+      "back": "The wearing away and removal of rock by waves."
+    }
+  ]
+}
