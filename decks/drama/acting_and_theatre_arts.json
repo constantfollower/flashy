@@ -1,0 +1,389 @@
+{
+  "meta": {
+    "subject": "Drama",
+    "topic": "Performance skills",
+    "deck": "Acting and theatre arts",
+    "version": "1.0",
+    "created": "2026-02-17",
+    "source": "SQA Higher Drama course specification"
+  },
+  "cards": [
+    {
+      "id": "dra_perf_characterisation",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Characterisation",
+      "back": "How a performer creates and communicates a character through voice, movement and interaction.",
+      "use": "In an evaluation answer, describe how characterisation was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_blocking",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Blocking",
+      "back": "Planned movement and positioning of performers on stage.",
+      "use": "In an evaluation answer, describe how blocking was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_proxemics",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Proxemics",
+      "back": "Use of space and distance between performers to communicate relationships and status.",
+      "use": "In an evaluation answer, describe how proxemics was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_status",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Status",
+      "back": "The level of power or confidence a character appears to have in relation to others.",
+      "use": "In an evaluation answer, describe how status was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_tension",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Tension",
+      "back": "A sense of conflict, anticipation or pressure that keeps an audience engaged.",
+      "use": "In an evaluation answer, describe how tension was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_pace",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Pace",
+      "back": "The speed of delivery or action in a performance.",
+      "use": "In an evaluation answer, describe how pace was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_pause",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Pause",
+      "back": "A deliberate break in speech or movement to shape meaning and tension.",
+      "use": "In an evaluation answer, describe how pause was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_pitch",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Pitch",
+      "back": "How high or low a voice sounds.",
+      "use": "In an evaluation answer, describe how pitch was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_tone",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Tone",
+      "back": "The emotion or attitude carried in the voice.",
+      "use": "In an evaluation answer, describe how tone was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_volume",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Volume",
+      "back": "How loud or quiet the voice is.",
+      "use": "In an evaluation answer, describe how volume was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_movement",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Movement",
+      "back": "How the performer uses the body to communicate meaning and character.",
+      "use": "In an evaluation answer, describe how movement was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_gesture",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Gesture",
+      "back": "A purposeful movement of hands, arms or body that supports meaning.",
+      "use": "In an evaluation answer, describe how gesture was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_facial_expression",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Facial expression",
+      "back": "Use of the face to communicate emotion and reaction.",
+      "use": "In an evaluation answer, describe how facial expression was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_eye_contact",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Eye contact",
+      "back": "Where and how a performer looks to communicate focus, relationship and intention.",
+      "use": "In an evaluation answer, describe how eye contact was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_voice",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Voice",
+      "back": "The use of spoken sound in performance, including clarity, expression and control.",
+      "use": "In an evaluation answer, describe how voice was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_accent",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Accent",
+      "back": "A particular way of pronouncing words that signals place, background or character choice.",
+      "use": "In an evaluation answer, describe how accent was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_intonation",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Intonation",
+      "back": "The rise and fall of the voice across phrases and sentences.",
+      "use": "In an evaluation answer, describe how intonation was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_emphasis",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Emphasis",
+      "back": "Stress placed on particular words or moments to highlight meaning.",
+      "use": "In an evaluation answer, describe how emphasis was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_mood",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Mood",
+      "back": "The feeling created in a moment or scene, such as tension, joy or unease.",
+      "use": "In an evaluation answer, describe how mood was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_atmosphere",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Atmosphere",
+      "back": "The overall sense of place and feeling created through performance and production choices.",
+      "use": "In an evaluation answer, describe how atmosphere was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_themes",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Themes",
+      "back": "The main ideas explored in a drama, such as power, identity or loyalty.",
+      "use": "In an evaluation answer, describe how themes was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_form",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Form",
+      "back": "The type of drama or theatre piece (for example, naturalistic, stylised, episodic).",
+      "use": "In an evaluation answer, describe how form was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_structure",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Structure",
+      "back": "How the drama is organised (scenes, sequence, pace of development).",
+      "use": "In an evaluation answer, describe how structure was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_style",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Style",
+      "back": "The overall approach to performance and production, including realism or stylisation.",
+      "use": "In an evaluation answer, describe how style was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_genre",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Genre",
+      "back": "A category of drama with shared conventions (for example, comedy, tragedy).",
+      "use": "In an evaluation answer, describe how genre was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_context",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Context",
+      "back": "Relevant background that helps explain choices and meaning (social, historical, cultural).",
+      "use": "In an evaluation answer, describe how context was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_audience",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Audience",
+      "back": "The people the performance is intended for, and how choices affect their response.",
+      "use": "In an evaluation answer, describe how audience was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_communication",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Communication",
+      "back": "How ideas and meaning are conveyed to an audience through dramatic choices.",
+      "use": "In an evaluation answer, describe how communication was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    },
+    {
+      "id": "dra_perf_performance",
+      "subject": "Drama",
+      "topic": "Performance skills",
+      "deck": "Acting and theatre arts",
+      "front": "Performance",
+      "back": "The live presentation of drama through acting and production elements.",
+      "use": "In an evaluation answer, describe how performance was used and what effect it had.",
+      "related": [
+        "drama",
+        "performance skills"
+      ]
+    }
+  ]
+}

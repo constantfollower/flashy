@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "subject": "English",
+    "topic": "Critical essay",
+    "deck": "Key terms",
+    "version": "1.0",
+    "created": "2026-02-17",
+    "source": "SQA Higher English course specification"
+  },
+  "cards": [
+    {
+      "id": "eng_crit_theme",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Theme",
+      "back": "A central idea that runs through a text, such as power, belonging, or loss.",
+      "use": "In a Critical Essay, use theme to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay",
+        "essay structure"
+      ]
+    },
+    {
+      "id": "eng_crit_character",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Character",
+      "back": "A person in a text, and the way they are presented through actions, dialogue and description.",
+      "use": "In a Critical Essay, use character to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay",
+        "essay structure"
+      ]
+    },
+    {
+      "id": "eng_crit_setting",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Setting",
+      "back": "Where and when a text takes place, and how place and time shape meaning.",
+      "use": "In a Critical Essay, use setting to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay",
+        "essay structure"
+      ]
+    },
+    {
+      "id": "eng_crit_plot",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Plot",
+      "back": "The sequence of events in a text.",
+      "use": "In a Critical Essay, use plot to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay",
+        "essay structure"
+      ]
+    },
+    {
+      "id": "eng_crit_narrative",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Narrative",
+      "back": "The way a story is told, including viewpoint and organisation.",
+      "use": "In a Critical Essay, use narrative to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay",
+        "essay structure"
+      ]
+    },
+    {
+      "id": "eng_crit_structure",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Structure",
+      "back": "How a text is organised and shaped (beginnings, endings, shifts, and order).",
+      "use": "In a Critical Essay, use structure to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay",
+        "essay structure"
+      ]
+    },
+    {
+      "id": "eng_crit_conflict",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Conflict",
+      "back": "A struggle between forces (people, ideas, society, nature) that drives the text.",
+      "use": "In a Critical Essay, use conflict to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay",
+        "essay structure"
+      ]
+    },
+    {
+      "id": "eng_crit_symbolism",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Symbolism",
+      "back": "When an object, image or action stands for an idea beyond its literal meaning.",
+      "use": "In a Critical Essay, use symbolism to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay",
+        "technique"
+      ]
+    },
+    {
+      "id": "eng_crit_symbol",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Symbol",
+      "back": "An object or image that represents something larger than itself.",
+      "use": "In a Critical Essay, use symbol to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay",
+        "technique"
+      ]
+    },
+    {
+      "id": "eng_crit_mood",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Mood",
+      "back": "The feeling created for the reader, such as tension, sadness or calm.",
+      "use": "In a Critical Essay, use mood to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay"
+      ]
+    },
+    {
+      "id": "eng_crit_atmosphere",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Atmosphere",
+      "back": "The overall sense of place and feeling in a scene, created by detail and tone.",
+      "use": "In a Critical Essay, use atmosphere to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay"
+      ]
+    },
+    {
+      "id": "eng_crit_dialogue",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Dialogue",
+      "back": "Spoken words between characters, used to reveal character and move ideas forward.",
+      "use": "In a Critical Essay, use dialogue to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay"
+      ]
+    },
+    {
+      "id": "eng_crit_point_of_view",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Point of view",
+      "back": "The perspective the text is told from (for example, first person or third person).",
+      "use": "In a Critical Essay, use point of view to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay"
+      ]
+    },
+    {
+      "id": "eng_crit_persona",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Persona",
+      "back": "A constructed voice or character used by the writer or speaker in a text.",
+      "use": "In a Critical Essay, use persona to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay",
+        "technique"
+      ]
+    },
+    {
+      "id": "eng_crit_irony",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Irony",
+      "back": "A contrast between what is expected and what happens, or between what is said and what is meant.",
+      "use": "In a Critical Essay, use irony to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay",
+        "technique"
+      ]
+    },
+    {
+      "id": "eng_crit_climax",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Climax",
+      "back": "A turning point where tension reaches its peak and the outcome becomes clear.",
+      "use": "In a Critical Essay, use climax to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay"
+      ]
+    },
+    {
+      "id": "eng_crit_genre",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Genre",
+      "back": "A type of text with shared conventions (for example, tragedy, satire, crime).",
+      "use": "In a Critical Essay, use genre to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay"
+      ]
+    },
+    {
+      "id": "eng_crit_rhyme",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Rhyme",
+      "back": "A pattern of matching sounds, often at line ends, used for effect and structure.",
+      "use": "In a Critical Essay, use rhyme to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay",
+        "technique"
+      ]
+    },
+    {
+      "id": "eng_crit_imagery",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Imagery",
+      "back": "Language that creates a clear picture or sensory impression in the reader’s mind.",
+      "use": "In a Critical Essay, use imagery to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay",
+        "technique"
+      ]
+    },
+    {
+      "id": "eng_crit_tone",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Tone",
+      "back": "The writer’s attitude or feeling, shown through language and style.",
+      "use": "In a Critical Essay, use tone to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay",
+        "technique"
+      ]
+    },
+    {
+      "id": "eng_crit_metaphor",
+      "subject": "English",
+      "topic": "Critical essay",
+      "deck": "Key terms",
+      "front": "Metaphor",
+      "back": "A figure of speech where something is described as if it is something else to create meaning or emphasis.",
+      "use": "In a Critical Essay, use metaphor to build a point with evidence.",
+      "related": [
+        "english",
+        "critical essay",
+        "technique"
+      ]
+    }
+  ]
+}
