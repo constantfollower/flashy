@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "subject": "Geography",
+    "topic": "Hydrosphere",
+    "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+    "version": "1.0",
+    "source_notes": "Built from hydrosphere_flashcards.txt. Subtopic: The Water Cycle, drainage Basins."
+  },
+  "cards": [
+    {
+      "id": "hydrosphere_hydrological_cycle_water_cycle",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Hydrological cycle (water cycle)",
+      "back": "The continuous movement of water between the atmosphere, land and oceans."
+    },
+    {
+      "id": "hydrosphere_drainage_basin",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Drainage basin",
+      "back": "The area of land drained by a river and its tributaries."
+    },
+    {
+      "id": "hydrosphere_watershed",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Watershed",
+      "back": "The high land that forms the boundary between drainage basins."
+    },
+    {
+      "id": "hydrosphere_precipitation",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Precipitation",
+      "back": "Water falling from the atmosphere to the Earth such as rain, snow, sleet or hail."
+    },
+    {
+      "id": "hydrosphere_interception",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Interception",
+      "back": "Water temporarily stored on vegetation such as leaves and branches."
+    },
+    {
+      "id": "hydrosphere_surface_storage",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Surface storage",
+      "back": "Water stored on the Earth’s surface such as in puddles, lakes or wetlands."
+    },
+    {
+      "id": "hydrosphere_soil_moisture_storage",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Soil moisture storage",
+      "back": "Water stored within the soil layer."
+    },
+    {
+      "id": "hydrosphere_groundwater_storage",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Groundwater storage",
+      "back": "Water stored underground within rock and soil layers."
+    },
+    {
+      "id": "hydrosphere_channel_storage",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Channel storage",
+      "back": "Water stored within the river channel."
+    },
+    {
+      "id": "hydrosphere_infiltration",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Infiltration",
+      "back": "Water soaking from the ground surface into the soil."
+    },
+    {
+      "id": "hydrosphere_percolation",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Percolation",
+      "back": "Water moving downward through soil into permeable rock."
+    },
+    {
+      "id": "hydrosphere_throughflow",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Throughflow",
+      "back": "Water flowing sideways through soil towards a river channel."
+    },
+    {
+      "id": "hydrosphere_groundwater_flow",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Groundwater flow",
+      "back": "Water slowly moving through permeable rock towards a river channel."
+    },
+    {
+      "id": "hydrosphere_surface_run_off_overland_flow",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Surface run-off (overland flow)",
+      "back": "Water flowing across the land surface into a river."
+    },
+    {
+      "id": "hydrosphere_stemflow",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Stemflow",
+      "back": "Water flowing down plant stems and trunks into the soil."
+    },
+    {
+      "id": "hydrosphere_throughfall",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Throughfall",
+      "back": "Water dripping from leaves to the ground below."
+    },
+    {
+      "id": "hydrosphere_evaporation",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Evaporation",
+      "back": "Water turning into water vapour due to heat from the sun."
+    },
+    {
+      "id": "hydrosphere_transpiration",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Transpiration",
+      "back": "Water vapour released into the atmosphere from plant leaves."
+    },
+    {
+      "id": "hydrosphere_evapotranspiration",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Evapotranspiration",
+      "back": "The combined loss of water from evaporation and transpiration."
+    },
+    {
+      "id": "hydrosphere_discharge",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Discharge",
+      "back": "The amount of water flowing in a river channel per second, measured in cubic metres per second."
+    },
+    {
+      "id": "hydrosphere_river_regime",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "River regime",
+      "back": "The pattern of river discharge throughout the year."
+    },
+    {
+      "id": "hydrosphere_hydrograph",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Hydrograph",
+      "back": "A graph showing river discharge over time."
+    },
+    {
+      "id": "hydrosphere_peak_discharge",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Peak discharge",
+      "back": "The highest river flow recorded during a storm event."
+    },
+    {
+      "id": "hydrosphere_rising_limb",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Rising limb",
+      "back": "The section of a hydrograph where river discharge increases after rainfall."
+    },
+    {
+      "id": "hydrosphere_falling_limb_recession_limb",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Falling limb (recession limb)",
+      "back": "The section of a hydrograph where river discharge decreases after the peak."
+    },
+    {
+      "id": "hydrosphere_lag_time",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Lag time",
+      "back": "The delay between peak rainfall and peak river discharge."
+    },
+    {
+      "id": "hydrosphere_relief_slope",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Relief (slope)",
+      "back": "The steepness of land within a drainage basin affecting how quickly water flows."
+    },
+    {
+      "id": "hydrosphere_geology_rock_type",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Geology (rock type)",
+      "back": "The type and permeability of rock which affects infiltration and runoff."
+    },
+    {
+      "id": "hydrosphere_soil_type",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Soil type",
+      "back": "The composition and permeability of soil which affects infiltration and water storage."
+    },
+    {
+      "id": "hydrosphere_vegetation",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Vegetation",
+      "back": "Plants and trees that increase interception and infiltration of water."
+    },
+    {
+      "id": "hydrosphere_rainfall_intensity",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Rainfall intensity",
+      "back": "The amount and rate of rainfall affecting runoff and river discharge."
+    },
+    {
+      "id": "hydrosphere_urbanisation",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Urbanisation",
+      "back": "The development of towns and cities with impermeable surfaces that increase runoff."
+    },
+    {
+      "id": "hydrosphere_deforestation",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Deforestation",
+      "back": "The removal of trees which reduces interception and increases surface runoff."
+    },
+    {
+      "id": "hydrosphere_agriculture",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Agriculture",
+      "back": "Farming activities that can compact soil and reduce infiltration."
+    },
+    {
+      "id": "hydrosphere_drainage_systems",
+      "subject": "Geography",
+      "topic": "Hydrosphere",
+      "deck": "Hydrosphere key terms (water cycle / drainage basin)",
+      "front": "Drainage systems",
+      "back": "Artificial channels and pipes that move water quickly into rivers."
+    }
+  ]
+}
