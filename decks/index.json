@@ -10,7 +10,7 @@
     "subject": "Geography",
     "topic": "Biosphere (soils)",
     "deck": "Islay prelim — Soils key terms",
-    "file": "decks/geography/isla_prelim_soils_key_terms.json"
+    "file": "decks/isla_prelim_soils_key_terms.json"
   },
   {
     "kind": "deck",
@@ -18,7 +18,7 @@
     "subject": "Geography",
     "topic": "Global issues (climate change)",
     "deck": "Islay prelim — Climate change key terms",
-    "file": "decks/geography/isla_prelim_climate_change_key_terms.json"
+    "file": "decks/isla_prelim_climate_change_key_terms.json"
   },
   {
     "kind": "deck",
@@ -26,7 +26,7 @@
     "subject": "Geography",
     "topic": "Lithosphere (coasts)",
     "deck": "Islay prelim — Coasts key terms",
-    "file": "decks/geography/isla_prelim_coasts_key_terms.json"
+    "file": "decks/isla_prelim_coasts_key_terms.json"
   },
   {
     "kind": "deck",
@@ -34,7 +34,15 @@
     "subject": "Geography",
     "topic": "Hydrosphere",
     "deck": "Hydrosphere key terms (water cycle / drainage basin)",
-    "file": "decks/geography/hydrosphere_key_terms_water_cycle_drainage_basin.json"
+    "file": "decks/hydrosphere_key_terms_water_cycle_drainage_basin.json"
+  },
+  {
+    "kind": "deck",
+    "label": "Geography / Atmosphere (atmospheric circulation) / Atmospheric Circulation Key Terms",
+    "subject": "Geography",
+    "topic": "Atmosphere (atmospheric circulation)",
+    "deck": "Atmospheric Circulation Key Terms",
+    "file": "decks/atmospheric_circulation_key_terms.json"
   },
   {
     "kind": "folder",
@@ -47,7 +55,7 @@
     "subject": "English",
     "topic": "Critical essay",
     "deck": "Key terms",
-    "file": "decks/english/critical_essay_key_terms.json"
+    "file": "decks/critical_essay_key_terms.json"
   },
   {
     "kind": "deck",
@@ -55,7 +63,7 @@
     "subject": "English",
     "topic": "RUAE",
     "deck": "Language and question words",
-    "file": "decks/english/ruae_language_and_question_words.json"
+    "file": "decks/ruae_language_and_question_words.json"
   },
   {
     "kind": "folder",
@@ -68,7 +76,7 @@
     "subject": "Drama",
     "topic": "Performance skills",
     "deck": "Acting and theatre arts",
-    "file": "decks/drama/acting_and_theatre_arts.json"
+    "file": "decks/acting_and_theatre_arts.json"
   },
   {
     "kind": "deck",
@@ -76,7 +84,7 @@
     "subject": "Drama",
     "topic": "Production",
     "deck": "Design, roles and evaluation",
-    "file": "decks/drama/design_roles_and_evaluation.json"
+    "file": "decks/design_roles_and_evaluation.json"
   },
   {
     "kind": "folder",
@@ -89,7 +97,7 @@
     "subject": "Art and Design",
     "topic": "Elements",
     "deck": "Visual elements and principles",
-    "file": "decks/art_and_design/visual_elements_and_principles.json"
+    "file": "decks/visual_elements_and_principles.json"
   },
   {
     "kind": "deck",
@@ -97,6 +105,6 @@
     "subject": "Art and Design",
     "topic": "Process",
     "deck": "Design and expressive workflow",
-    "file": "decks/art_and_design/design_and_expressive_workflow.json"
+    "file": "decks/design_and_expressive_workflow.json"
   }
 ]
